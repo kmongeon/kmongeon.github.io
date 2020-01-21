@@ -10,13 +10,6 @@ layout: default
 
 title: Publications
 
-bibliography: assets/bibliography/journals.bib
-
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
 
-{{ page.title }}
-================
-
-
-{% bibliography --file journals %}
