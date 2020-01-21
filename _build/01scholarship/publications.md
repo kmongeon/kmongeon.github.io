@@ -1,7 +1,7 @@
 ---
 title: 'Publications'
 prev_page:
-  url: /about_me
+  url: /about_me.html
   title: 'About me'
 next_page:
   url: https://kmongeon.github.com/

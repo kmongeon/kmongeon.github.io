@@ -6,16 +6,16 @@ prev_page:
   url: 
   title: ''
 next_page:
-  url: /01scholarship/publications
+  url: /01scholarship/publications.html
   title: 'Publications'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
 # About me
 
 ## Interests
-&nbsp;&nbsp; Applied Economics, Bayesian Econometrics, Education Economics  
-&nbsp;&nbsp; Sports Economics, Sports Analytics  
-&nbsp;&nbsp; Data Science, Analytics  
+Applied Economics, Bayesian Econometrics, Education Economics  
+Sports Economics, Sports Analytics  
+Data Science, Analytics  
 
 ## Education
 Ph.D. in Economics  
