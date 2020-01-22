@@ -4,4 +4,4 @@ bibliography:
 nocite: '@*'
 ...
 
-# Industry Contributions
+## Industry Contributions

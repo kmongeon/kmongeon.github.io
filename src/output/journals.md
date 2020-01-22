@@ -1,5 +1,5 @@
 Peer-Refereed Journals
-======================
+----------------------
 
 Ulrick, S., Mongeon, K., & Giannetto, M. (2018). A continuous
 income-based grade gap decomposition on university course grades.

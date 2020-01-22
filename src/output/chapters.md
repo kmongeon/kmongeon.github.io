@@ -1,5 +1,5 @@
 Book Chapters
-=============
+-------------
 
 Mongeon, K., Hedlund, D., & Spalding, R. (2017). Analytics in the sport
 industry. In P. Pedersen & L. Thibault (Eds.), *Contemporary sport

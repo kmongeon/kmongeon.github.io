@@ -2,6 +2,7 @@
 
 rm -f output/*
 
+file0=publications.md
 file1=journals.md
 file2=chapters.md
 file3=reports.md
@@ -17,6 +18,8 @@ pandoc $PANDOC_OPTIONS input/$file2 -o output/$file2
 pandoc $PANDOC_OPTIONS input/$file3 -o output/$file3
 pandoc $PANDOC_OPTIONS input/$file4 -o output/$file4
 
-pandoc --to markdown_strict output/$file1 output/$file2 output/$file3 output/$file4 -o ../content/01scholarship/publications.md
+cp input/$file0 output/$file0
 
-#cp output/publications.md ../content/01scholarship/publications.md
+pandoc --to markdown_strict output/$file0 output/$file1 output/$file2 output/$file3 output/$file4 -o output/$file0
+
+cp output/$file0 ../content/01scholarship/$file0

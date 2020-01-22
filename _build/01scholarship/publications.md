@@ -8,8 +8,11 @@ next_page:
   title: 'Bayesian Updating'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
+Publications
+============
+
 Peer-Refereed Journals
-======================
+----------------------
 
 Ulrick, S., Mongeon, K., & Giannetto, M. (2018). A continuous
 income-based grade gap decomposition on university course grades.
@@ -55,7 +58,7 @@ Review*, *15*(1), 72–79.
 <a href="https://doi.org/http://dx.doi.org/10.1016/j.smr.2011.09.001" class="uri">https://doi.org/http://dx.doi.org/10.1016/j.smr.2011.09.001</a>
 
 Book Chapters
-=============
+-------------
 
 Mongeon, K., Hedlund, D., & Spalding, R. (2017). Analytics in the sport
 industry. In P. Pedersen & L. Thibault (Eds.), *Contemporary sport
@@ -71,7 +74,7 @@ B. Frick (Ed.), *Breaking the ice: The economics of hockey* (pp.
 131–147). Springer Publishing.
 
 Expert Reports
-==============
+--------------
 
 Mongeon, K., Hedlund, D., & Spalding, R. (2017). Analytics in the sport
 industry. In P. Pedersen & L. Thibault (Eds.), *Contemporary sport
@@ -87,7 +90,7 @@ B. Frick (Ed.), *Breaking the ice: The economics of hockey* (pp.
 131–147). Springer Publishing.
 
 Industry Contributions
-======================
+----------------------
 
 Boyle, M., & Mongeon, K. (2013). Growing an organization’s sports
 analytics competency. *Sports Performance & Tech*, *1*(2), 27–32.

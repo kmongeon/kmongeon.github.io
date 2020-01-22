@@ -1,5 +1,5 @@
 Industry Contributions
-======================
+----------------------
 
 Boyle, M., & Mongeon, K. (2013). Growing an organization’s sports
 analytics competency. *Sports Performance & Tech*, *1*(2), 27–32.
