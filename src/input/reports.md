@@ -1,6 +1,6 @@
 ---
 bibliography:
-  - references/publications/chapters.bib
+  - references/publications/reports.bib
 nocite: '@*'
 ...
 
