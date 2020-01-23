@@ -18,9 +18,9 @@
 # Jekyll site settings
 title: Portfolio
 author: Kevin P. Mongeon
-fields: economist | data scientist
+fields: Economist | Data Scientist
 email: kmongeon@brocku.ca
-cv: <a href="https://github.com/kmongeon">CV</a>
+cv: images/CV_Mongeon.pdf
 github: <a href="https://github.com/kmongeon">GitHub</a>
 
 description: Academic and data science portfolio, CV, and current projects

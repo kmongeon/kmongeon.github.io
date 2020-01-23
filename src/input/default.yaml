@@ -1,0 +1,18 @@
+---
+papersize: letter
+mainfont: "Times New Roman"
+fontsize: 12pt
+geometry:
+- top=1in
+- bottom=1.5in
+- left=1in
+- right=1in
+header-includes: |
+  \usepackage{pdflscape, booktabs, tabularx, multirow}
+  \usepackage[document]{ragged2e}
+  \usepackage{microtype}
+  \usepackage[utf8]{inputenc}
+  \usepackage[T1]{fontenc}
+  \usepackage{biblatex}
+  \addbibresource{references/publications/journals.bib}
+...

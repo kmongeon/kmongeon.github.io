@@ -6,7 +6,7 @@ prev_page:
   url: 
   title: ''
 next_page:
-  url: /01scholarship/publications.html
+  url: /01scholarship/10publications.html
   title: 'Publications'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---

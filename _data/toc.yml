@@ -9,13 +9,13 @@
 - divider: true
 - header: Scholarship
 - title: Publications
-  url: /01scholarship/publications
+  url: /01scholarship/10publications
   not_numbered: true
 - title: Presentations
-  url:
+  url: /01scholarship/20presentations
   not_numbered: true
-- title: Reports
-  url:
+- title: Media
+  url: /01scholarship/30media
   not_numbered: true
 
 ################################################################################

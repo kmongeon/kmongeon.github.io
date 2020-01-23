@@ -1,3 +1,13 @@
+---
+title: 'Publications'
+prev_page:
+  url: /about_me.html
+  title: 'About me'
+next_page:
+  url: /01scholarship/20presentations.html
+  title: 'Presentations'
+comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
+---
 Publications
 ============
 
@@ -66,18 +76,25 @@ B. Frick (Ed.), *Breaking the ice: The economics of hockey* (pp.
 Expert Reports
 --------------
 
-Mongeon, K., Hedlund, D., & Spalding, R. (2017). Analytics in the sport
-industry. In P. Pedersen & L. Thibault (Eds.), *Contemporary sport
-management (sixth edition)*. Human Kinetics.
+Mongeon, K. (2017). Expert report on the canadian hockey league wage
+class action certification: Rebuttal and policy analysis. *Berg V.
+Canadian Hockey League*, *2016 ONSC 4466*.
+<a href="http://www.chlclassaction.com/court-record/" class="uri">http://www.chlclassaction.com/court-record/</a>
 
-Mongeon, K., & Boyle, J. M. (2017). A further assessment of the impacts
-of cultural and language diversity in the national hockey league. In B.
-Frick (Ed.), *Breaking the ice: The economics of hockey* (pp. 113–129).
-Springer Publishing.
+Mongeon, K. (2017). Expert report on the canadian hockey league wage
+class action certification: Rebuttal and policy analysis. *Walter V.
+Western Hockey League*, *2016 ABQB 588*.
+<a href="http://www.chlclassaction.com/court-record/" class="uri">http://www.chlclassaction.com/court-record/</a>
 
-Mongeon, K., & Longley, N. (2017). Team level referee discrimination. In
-B. Frick (Ed.), *Breaking the ice: The economics of hockey* (pp.
-131–147). Springer Publishing.
+Mongeon, K. (2016). Expert report on the economics of the canadian
+hockey league and its team members. *Berg V. Canadian Hockey League*,
+*2016 ONSC 4466*.
+<a href="http://www.chlclassaction.com/court-record/" class="uri">http://www.chlclassaction.com/court-record/</a>
+
+Mongeon, K. (2016). Expert report on the economics of the canadian
+hockey league and its team members. *Walter V. Western Hockey League*,
+*2016 ABQB 588*.
+<a href="http://www.chlclassaction.com/court-record/" class="uri">http://www.chlclassaction.com/court-record/</a>
 
 Industry Contributions
 ----------------------
