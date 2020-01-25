@@ -4,94 +4,72 @@ Publications
 Peer-Refereed Journals
 ----------------------
 
-Ulrick, S., Mongeon, K., & Giannetto, M. (2018). A continuous
-income-based grade gap decomposition on university course grades.
-*Applied Economics*, *50*(31), 3388–3404.
-<a href="https://doi.org/10.1080/00036846.2017.1420893" class="uri">https://doi.org/10.1080/00036846.2017.1420893</a>
+Ulrick, Shawn, Kevin Mongeon, and Michael Giannetto. 2018. “A continuous income-based grade gap decomposition on university course grades”. Applied Economics 50 (31): 3388–3404.
+<details>
+<summary>Heading</summary>
+    + markdown list 1
+        + nested list 1
+        + nested list 2
+    + markdown list 2
+</details>
 
-Mongeon, K., Ulrick, S., & Giannetto, M. P. (2017). Explaining
-university course grade gaps. *Empirical Economics*, *52*(1), 411–446.
-<a href="https://doi.org/10.1007/s00181-016-1078-4" class="uri">https://doi.org/10.1007/s00181-016-1078-4</a>
+Mongeon, Kevin, Shawn Ulrick, and Michael P. Giannetto. 2017. “Explaining University Course Grade Gaps”. Empirical Economics 52 (1): 411–446.
 
-Mongeon, K. (2015). A market test for ethnic discrimination in the
-national hockey league. *Journal of Sports Economics*, *16*(5), 460–481.
-<a href="https://doi.org/10.1177/1527002513502490" class="uri">https://doi.org/10.1177/1527002513502490</a>
+Mongeon, Kevin. 2015. “A Market Test for Ethnic Discrimination in the National Hockey League”. Journal of Sports Economics 16 (5): 460–481.
 
-Mongeon, K., & Longley, N. (2015). Testing for ethnicity discrimination
-among nhl referees: A duration model approach. *Eastern Economic
-Journal*, *41*(1), 86–101.
-<a href="https://doi.org/10.1057/eej.2013.41" class="uri">https://doi.org/10.1057/eej.2013.41</a>
+Mongeon, Kevin, and Neil Longley. 2015. “Testing for Ethnicity Discrimination among NHL Referees: A Duration Model Approach”. Eastern Economic Journal 41 (1): 86–101.
 
-Kaplan, E., Mongeon, K., & Ryan, J. (2014). A markov model for hockey:
-Manpower differential and win probability added. *INFOR: Information
-Systems and Operational Research*, *52*(2), 39–50.
-<a href="https://doi.org/10.3138/infor.52.2.39" class="uri">https://doi.org/10.3138/infor.52.2.39</a>
+Kaplan, Edward, Kevin Mongeon, and John Ryan. 2014. “A Markov Model for Hockey: Manpower Differential and Win Probability Added”. INFOR: Information Systems and Operational Research 52 (2): 39–50.
 
-Mongeon, K., & Longley, N. (2013). A methodology for identifying the
-impacted groups in referee discrimination studies. *Applied Economics
-Letters*, *20*(5), 416–419.
-<a href="https://doi.org/10.1080/13504851.2012.709592" class="uri">https://doi.org/10.1080/13504851.2012.709592</a>
+Mongeon, Kevin, and Neil Longley. 2013. “A Methodology for Identifying the Impacted Groups in Referee Discrimination Studies”. Applied Economics Letters 20 (5): 416–419.
 
-Mongeon, K., & Mittelhammer, R. (2013). To discriminate or not to
-discriminate - is data aggregation the question? *Applied Economics
-Letters*, *20*(16), 1485–1490.
-<a href="https://doi.org/10.1080/13504851.2013.826867" class="uri">https://doi.org/10.1080/13504851.2013.826867</a>
+Mongeon, Kevin, and Ron Mittelhammer. 2013. “To Discriminate or Not to Discriminate - Is Data Aggregation the Question?” Applied Economics Letters 20 (16): 1485–1490.
 
-Mongeon, K., & Winfree, J. (2013). The effects of cross-ownership and
-league policies across sports leagues within a city. *Review of
-Industrial Organization*, *43*(3), 145–162.
-<a href="https://doi.org/10.1007/s11151-013-9374-z" class="uri">https://doi.org/10.1007/s11151-013-9374-z</a>
+Mongeon, Kevin, and Jason Winfree. 2013. “The Effects of Cross-Ownership and League Policies Across Sports Leagues Within a City”. Review of Industrial Organization 43 (3): 145–162.
 
-Mongeon, K., & Winfree, J. (2012). Comparison of television and gate
-demand in the national basketball association. *Sport Management
-Review*, *15*(1), 72–79.
-<a href="https://doi.org/http://dx.doi.org/10.1016/j.smr.2011.09.001" class="uri">https://doi.org/http://dx.doi.org/10.1016/j.smr.2011.09.001</a>
+Mongeon, Kevin, and Jason Winfree. 2012. “Comparison of Television and Gate Demand in the National Basketball Association”. Sport Management Review 15 (1): 72–79.
 
 Book Chapters
 -------------
 
-Mongeon, K., Hedlund, D., & Spalding, R. (2017). Analytics in the sport
-industry. In P. Pedersen & L. Thibault (Eds.), *Contemporary sport
-management (sixth edition)*. Human Kinetics.
+Mongeon, K. and J.M. Boyle (2017) “A further assessment of the impacts
+of cultural and language diversity in the national hockey league.” In
+*Breaking the Ice: The Economics of Hockey*, pp. 113–29, ed. B. Frick.
+New York, NY: Springer Publishing
 
-Mongeon, K., & Boyle, J. M. (2017). A further assessment of the impacts
-of cultural and language diversity in the national hockey league. In B.
-Frick (Ed.), *Breaking the ice: The economics of hockey* (pp. 113–129).
-Springer Publishing.
+Mongeon, K., D. Hedlund, and R. Spalding (2017) “Analytics in the sport
+industry.” In *Contemporary Sport Management (Sixth Edition)*, eds. P.
+Pedersen and L. Thibault. Champaign, IL: Human Kinetics
 
-Mongeon, K., & Longley, N. (2017). Team level referee discrimination. In
-B. Frick (Ed.), *Breaking the ice: The economics of hockey* (pp.
-131–147). Springer Publishing.
+Mongeon, K. and N. Longley (2017) “Team level referee discrimination.”
+In *Breaking the Ice: The Economics of Hockey*, pp. 131–47, ed. B.
+Frick. New York, NY: Springer Publishing
 
 Expert Reports
 --------------
 
-Mongeon, K. (2017). Expert report on the canadian hockey league wage
-class action certification: Rebuttal and policy analysis. *Berg V.
-Canadian Hockey League*, *2016 ONSC 4466*.
-<a href="http://www.chlclassaction.com/court-record/" class="uri">http://www.chlclassaction.com/court-record/</a>
+Mongeon, K. (2016a) “Expert report on the economics of the canadian
+hockey league and its team members,” *Berg V. Canadian Hockey League*
+2016 ONSC 4466,
 
-Mongeon, K. (2017). Expert report on the canadian hockey league wage
-class action certification: Rebuttal and policy analysis. *Walter V.
-Western Hockey League*, *2016 ABQB 588*.
-<a href="http://www.chlclassaction.com/court-record/" class="uri">http://www.chlclassaction.com/court-record/</a>
+——— (2016b) “Expert report on the economics of the canadian hockey
+league and its team members,” *Walter V. Western Hockey League* 2016
+ABQB 588,
 
-Mongeon, K. (2016). Expert report on the economics of the canadian
-hockey league and its team members. *Berg V. Canadian Hockey League*,
-*2016 ONSC 4466*.
-<a href="http://www.chlclassaction.com/court-record/" class="uri">http://www.chlclassaction.com/court-record/</a>
+——— (2017a) “Expert report on the canadian hockey league wage class
+action certification: Rebuttal and policy analysis,” *Berg V. Canadian
+Hockey League* 2016 ONSC 4466,
 
-Mongeon, K. (2016). Expert report on the economics of the canadian
-hockey league and its team members. *Walter V. Western Hockey League*,
-*2016 ABQB 588*.
-<a href="http://www.chlclassaction.com/court-record/" class="uri">http://www.chlclassaction.com/court-record/</a>
+——— (2017b) “Expert report on the canadian hockey league wage class
+action certification: Rebuttal and policy analysis,” *Walter V. Western
+Hockey League* 2016 ABQB 588,
 
 Industry Contributions
 ----------------------
 
-Boyle, M., & Mongeon, K. (2013). Growing an organization’s sports
-analytics competency. *Sports Performance & Tech*, *1*(2), 27–32.
+Boyle, M. and K. Mongeon (2013) “Growing an organization’s sports
+analytics competency,” *Sports Performance & Tech* 1, 27–32
 
-Mongeon, K. (2013). Hockey analytics: Derived statistics are the
-beginning not the end. *2013 Mit Sloan Sports Analytics Conference*.
-[www.sloansportsconference.com/?p=9862](www.sloansportsconference.com/?p=9862)
+Mongeon, K. (2013) “Hockey analytics: Derived statistics are the
+beginning not the end.” In *2013 Mit Sloan Sports Analytics Conference*.
+Online
