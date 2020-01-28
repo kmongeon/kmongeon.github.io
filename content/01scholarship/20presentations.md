@@ -4,75 +4,71 @@ Presentations
 Academic conferences
 --------------------
 
-Kaplan, E., Mongeon, K., & Ryan, J. (2013, December). A puck in the net
-beats four men in the box. *Rutgers Applied Probability Conference*.
+Ferguson, Michael, and Kevin Mongeon. 2016. "Can They Handle the
+Pressure? An Analysis of Major League Baseball Playoff Races". In *North American Society for Sport Management Conference*. Orlando, Florida.
 
-Mongeon, K., & Longley, N. (2011, November). An ethnicity discrimination
-test among national hockey league officials. *Southern Economic
-Association Annual Conference*.
+Kerwin, Shannon, and Kevin Mongeon. 2016. "Are Educated Sport
+Managers Better?" In *North American Society for Sport Management Conference*. Orlando, Florida.
 
-Ulrick, S., Mongeon, K., & Giannetto, M. (2014, July). A continuous
-income-based grade gap decomposition on university course grades.
-*Canadian Economics Conference*.
+Mongeon, Kevin. 2016. "The Process of Winning and Losing
+Sporting Contests". In *Statistical Society of Canada*. St. Catharines, Ontario.
 
-Mongeon, K., & Mittelhammer, R. (2012, July). The existence and
-economics of rationally biased officiating. *Canadian Economics
-Conference*.
+Mongeon, Kevin. 2016. "The Production of Winning and Losing
+Hockey Games". In *Ottawa Hockey Analytics Conference*. Ottawa, Ontario.
 
-Mongeon, K., & Winfree, J. (2011, July). Cross-ownership, league
-policies and player investment across sports leagues. *Western Economics
-Association International Conference*.
+Ross, Weller, and Kevin Mongeon. 2016. "Biased Decision-Making in
+Sport". In *North American Society for Sport Management Conference*. Orlando, Florida.
 
-Ferguson, M., & Mongeon, K. (2016, June). Can they handle the pressure?
-An analysis of major league baseball playoff races. *North American
-Society for Sport Management Conference*.
+Ferguson, Michael, and Kevin Mongeon. 2015. "The Impact of Team
+Performance on Player Salaries". In *North American Society for Sport Management Conference*. Ottawa, Ontario.
 
-Kerwin, S., & Mongeon, K. (2016, June). Are educated sport managers
-better? *North American Society for Sport Management Conference*.
+Mongeon, Kevin. 2015. "The In-Game Production of Winning and
+Losing Hockey Games". In *Pan American Sport and Exercise Research Summit*. Toronto, Ontario.
 
-Mongeon, K. (2016, June). The process of winning and losing sporting
-contests. *Statistical Society of Canada*.
+Ross, Weller, and Kevin Mongeon. 2015. "Winners Do it Differently!"
+In *North American Society for Sport Management Conference*. Ottawa,
+Ontario.
 
-Ross, W., & Mongeon, K. (2016, June). Biased decision-making in sport.
-*North American Society for Sport Management Conference*.
+Kaplan, Edward, Kevin Mongeon, and John Ryan. 2014. "A Puck In The
+Net Beats Four Men In The Box". In *INFORMS Annual Meeting*. Minneapolis, Minnesota.
 
-Ferguson, M., & Mongeon, K. (2015, June). The impact of team performance
-on player salaries. *North American Society for Sport Management
-Conference*.
+Mongeon, Kevin. 2014. "A Further Assessment of the Impacts of
+Cultural and Language Diversity in the National Hockey League". In
+*Western Economics Association International Conference*. Denver, Colorado.
 
-Ross, W., & Mongeon, K. (2015, June). Winners do it differently! *North
-American Society for Sport Management Conference*.
+Mongeon, Kevin. 2014. "A Further Assessment of the Impacts of
+Cultural and Language Diversity in the National Hockey League". In *The Hockey Conference*. London, Ontario.
 
-Mongeon, K. (2014, June). A further assessment of the impacts of
-cultural and language diversity in the national hockey league. *Western
-Economics Association International Conference*.
+Ulrick, Shawn, Kevin Mongeon, and Michael Giannetto. 2014. "A
+Continuous Income-Based Grade Gap Decomposition on University Course
+Grades". In *Canadian Economics Conference*. Vancouver, British Columbia.
 
-Mongeon, K. (2014, June). A further assessment of the impacts of
-cultural and language diversity in the national hockey league. *The
-Hockey Conference*.
+Kaplan, Edward, Kevin Mongeon, and John Ryan. 2013. "A Puck In The
+Net Beats Four Men In The Box". In *Rutgers Applied Probability Conference*. New Brunswick, New Jersey.
 
-Mongeon, K. (2015, April). The in-game production of winning and losing
-hockey games. *Pan American Sport and Exercise Research Summit*.
+Mongeon, Kevin, and Ron Mittelhammer. 2012. "The Existence and
+Economics of Rationally Biased Officiating". In *Canadian Economics Conference*. Calgary, Alberta.
 
-Mongeon, K., & Mittelhammer, R. (2011, April). Home advantage, close
-games, and big crowds: The existence and economics of rationally biased
-officiating. *Midwest Economics Association Annual Conference*.
+Mongeon, Kevin, and Neil Longley. 2011. “An Ethnicity Discrimination Test Among National Hockey League Officials”. In *Southern Economic Association Annual Conference*. Washington, DC.
 
-Kaplan, E., Mongeon, K., & Ryan, J. (2014, March). A puck in the net
-beats four men in the box. *INFORMS Annual Meeting*.
+Mongeon, Kevin, and Ron Mittelhammer. 2011. "Home Advantage,
+Close Games, and Big Crowds: The Existence and Economics of Rationally
+Biased Officiating". In *Midwest Economics Association Annual Conference*. St. Louis, Missouri.
 
-Mongeon, K. (2016, January). The production of winning and losing hockey
-games. *Ottawa Hockey Analytics Conference*.
+Mongeon, Kevin, and Jason Winfree. 2011. "Cross-Ownership,
+League Policies and Player Investment across Sports Leagues". In
+*Western Economics Association International Conference*. San Diego,
+California.
 
 Industry conferences
 --------------------
 
-Mongeon, K., & Boyle, J. M. (2015, November). From the rink to the
-trading desk: What can financial data scientists learn from hockey
-analytics? *Quant World Canada 2015*.
+Mongeon, Kevin, and J. Michael Boyle. 2015. "From the Rink to
+the Trading Desk: What can Financial Data Scientists Learn from Hockey
+Analytics?" In *Quant World Canada 2015*. Toronto, Ontario.
 
-Mongeon, K., & Boyle, J. M. (2014, May). Designing effective sport teams
-through physical diversity. *Predictive Analytics World*.
+Mongeon, Kevin, and J. Michael Boyle. 2014. "Designing Effective
+Sport Teams through Physical Diversity". In *Predictive Analytics World*. Toronto, Ontario.
 
-Mongeon, K. (2013, May). Succeeding with analytics in professional
-hockey - now and into the future. *Predictive Analytics World*.
+Mongeon, Kevin. 2013. "Succeeding with Analytics in Professional
+Hockey - Now and Into the Future". In *Predictive Analytics World*. Toronto, Ontario.

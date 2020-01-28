@@ -17,6 +17,9 @@
 - title: Media
   url: /01scholarship/30media
   not_numbered: true
+- title: Supervision
+  url: /01scholarship/40supervision
+  not_numbered: true
 
 ################################################################################
 - divider: true
