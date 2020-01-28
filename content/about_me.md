@@ -1,10 +1,3 @@
-* {
-margin: 0;
-padding: 0;
-border: none;
-list-style-type: none;
-}
-
 # About me
 
 ## Interests
@@ -14,13 +7,13 @@ Data Science, Analytics, Sports Analytics
 
 ## Education
 Ph.D. in Economics, 2010  
-&nbsp;&nbsp; Washington State University  
-&nbsp;&nbsp; Fields: Econometrics and Industrial Organization
+&nbsp;&nbsp;&nbsp; Washington State University  
+&nbsp;&nbsp;&nbsp; Fields: Econometrics and Industrial Organization
 
 ## Current Positions
 Associate Professor  
 Brock University
 
 Data Science Consultancy
-* Data architecture design and Big Data management  
-* Development and implementation of analytical models, machine learning techniques, applications, and reporting systems
+&nbsp;&nbsp;&nbsp; Data architecture design and Big Data management  
+&nbsp;&nbsp;&nbsp; Development and implementation of analytical models, machine learning techniques, applications, and reporting systems
