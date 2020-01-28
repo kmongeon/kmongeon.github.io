@@ -10,6 +10,13 @@ next_page:
   title: 'Publications'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
+* {
+margin: 0;
+padding: 0;
+border: none;
+list-style-type: none;
+}
+
 # About me
 
 ## Interests

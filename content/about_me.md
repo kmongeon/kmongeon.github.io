@@ -1,3 +1,10 @@
+* {
+margin: 0;
+padding: 0;
+border: none;
+list-style-type: none;
+}
+
 # About me
 
 ## Interests

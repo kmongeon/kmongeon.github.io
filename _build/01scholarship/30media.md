@@ -11,17 +11,15 @@ comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /con
 Media interviews
 ================
 
-Broadcast interviews
---------------------
+## Broadcast
 
-Porter, Jody. 2016. *Hockey Referee Bias*. CBC Radio. Superior Morning, Thunder Bay, ON.
+Porter, Jody. 2016. *Hockey Referee Bias*. CBC Radio. Superior Morning, Thunder Bay, ON.  
 
-Richards, Jim. 2016. *Hockey Referee Bias*. Newstalk 1010. The Jim Richards Show, Toronto, ON.
+Richards, Jim. 2016. *Hockey Referee Bias*. Newstalk 1010. The Jim Richards Show, Toronto, ON.  
 
-Noël, Christian. 2014. *Hockey Analytics*. Radio-Canada. CBC, Montreal, QC.
+Noël, Christian. 2014. *Hockey Analytics*. Radio-Canada. CBC, Montreal, QC.  
 
-Print and online interviews
----------------------------
+## Print and online
 
 Caldwell, Tony. 2016. *French Canadian NHL Referees Give more Penalties to English Players, New Study Says*. National Post.
 
