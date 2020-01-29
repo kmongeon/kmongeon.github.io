@@ -19,8 +19,8 @@ comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /con
 
 ## Education
 Ph.D. in Economics, 2010  
-&bull; &nbsp; Washington State University  
-&bull; &nbsp; Fields: Econometrics and Industrial Organization
+Washington State University    
+Fields: Econometrics and Industrial Organization
 
 ## Current Positions
 Associate Professor  
