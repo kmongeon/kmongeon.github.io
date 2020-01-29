@@ -26,6 +26,6 @@ Ph.D. in Economics, 2010
 Associate Professor  
 Brock University
 
-Data Science Consultancy
-&nbsp;&nbsp;&nbsp; Data architecture design and Big Data management  
-&nbsp;&nbsp;&nbsp; Development and implementation of analytical models, machine learning techniques, applications, and reporting systems
+Data Science Consultancy  
+&bull; &nbsp;&nbsp; Data architecture design and Big Data management  
+&bull; &nbsp;&nbsp; Development and implementation of analytical models, machine learning techniques, applications, and reporting systems
