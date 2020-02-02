@@ -23,6 +23,11 @@ The earnings premium for education, and higher education in particular, is well 
 
 Mongeon, Kevin, Shawn Ulrick, and Michael P. Giannetto. 2017. “Explaining University Course Grade Gaps”. *Empirical Economics* 52 (1): 411–446.
 
+<p id="{{key}}-abstract" class="collapse">
+The earnings premium for education, and higher education in particular, is well documented. This article examines the college achievement gap between students coming from positions of high and low socio-economic status. Other papers have also looked at this issue, often by employing, at least in part, an Oaxaca decomposition. Past papers artificially divided socio-economic status into binary groups of high and low, in order to employ the decomposition. Socio-economic status is innately a continuous variable. Therefore, we implement a continuous version of the Oaxaca decomposition. Higher socio-economic students are both slightly better prepared in terms of observable characteristics and have better returns to their characteristics than lower socio-economic students. Notable differences across results obtained from the binary and continuous decomposition methods are discussed.
+</p>
+
+
 Mongeon, Kevin. 2015. “A Market Test for Ethnic Discrimination in the National Hockey League”. *Journal of Sports Economics* 16 (5): 460–481.
 
 Mongeon, Kevin, and Neil Longley. 2015. “Testing for Ethnicity Discrimination among NHL Referees: A Duration Model Approach”. *Eastern Economic Journal* 41 (1): 86–101.
