@@ -16,20 +16,10 @@ Peer-Refereed Journals
 
 
 Ulrick, Shawn, Kevin Mongeon, and Michael Giannetto. 2018. “A continuous income-based grade gap decomposition on university course grades”. *Applied Economics* 50 (31): 3388–3404.
-<p><details><summary>Abstract</summary>
-The earnings premium for education, and higher education in particular, is well documented. This article examines the college achievement gap between students coming from positions of high and low socio-economic status. Other papers have also looked at this issue, often by employing, at least in part, an Oaxaca decomposition. Past papers artificially divided socio-economic status into binary groups of high and low, in order to employ the decomposition. Socio-economic status is innately a continuous variable. Therefore, we implement a continuous version of the Oaxaca decomposition. Higher socio-economic students are both slightly better prepared in terms of observable characteristics and have better returns to their characteristics than lower socio-economic students. Notable differences across results obtained from the binary and continuous decomposition methods are discussed.
-</details></p>
 
 Mongeon, Kevin, Shawn Ulrick, and Michael P. Giannetto. 2017. “Explaining University Course Grade Gaps”. *Empirical Economics* 52 (1): 411–446.
-<p><details><summary>Abstract</summary>
-This paper estimates the discrepancy in university mathematics and science course grades across races. Although there are significant Black--White and Hispanic--White grade discrepancies, or gaps, Black and Hispanic students who are equally prepared for university as White students do as well as White students. The grade gaps are explained after accounting for important factors such as a student's academic capabilities and socioeconomic status. Varying behaviors of university students relative to high school across races are ruled out as a possible source of the grade gaps.
-</details></p>
 
-Mongeon, Kevin. 2015. “A Market Test for Ethnic Discrimination in the National Hockey League”. *Journal of Sports Economics* 16 (5): 460–481.
-<p><details><summary>Abstract</summary>
-This article tests for salary discrimination based on player ethnicities in the National Hockey League across various geographical locations with a market model that analyzes every game played during the 2010-2011 season. Using both the relative share of game-team players on the starting roster and time on ice as inputs, results suggest that, relative to English Canadian players, French Canadian and American players playing on Canadian teams suffer from wage discrimination. Potential confounding factors that can influence the inferences, as well as the limitations, of the market model approach are discussed.
-</details></p>
-
+Mongeon, Kevin. 2015. “A Market Test for Ethnic Discrimination in the National Hockey League”. *Journal of Sports Economics* 16 (5): 460–481.  
 Mongeon, Kevin, and Neil Longley. 2015. “Testing for Ethnicity Discrimination among NHL Referees: A Duration Model Approach”. *Eastern Economic Journal* 41 (1): 86–101.
 
 Kaplan, Edward, Kevin Mongeon, and John Ryan. 2014. “A Markov Model for Hockey: Manpower Differential and Win Probability Added”. *INFOR: Information Systems and Operational Research* 52 (2): 39–50.
