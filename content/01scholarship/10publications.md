@@ -5,7 +5,7 @@ Peer-Refereed Journals
 ----------------------
 
 
-Ulrick, Shawn, Kevin Mongeon, and Michael Giannetto. 2018. “A continuous income-based grade gap decomposition on university course grades”. *Applied Economics* 50 (31): 3388–3404.
+Ulrick, Shawn, Kevin Mongeon, and Michael Giannetto. 2018. “A Continuous Income-Based Grade Gap Decomposition on University Course Grades”. *Applied Economics* 50 (31): 3388–3404.
 
 Mongeon, Kevin, Shawn Ulrick, and Michael P. Giannetto. 2017. “Explaining University Course Grade Gaps”. *Empirical Economics* 52 (1): 411–446.
 
