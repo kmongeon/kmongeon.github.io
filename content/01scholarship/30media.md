@@ -3,7 +3,7 @@ Media interviews
 
 ## Broadcast
 
-Porter, Jody. 2016. *Hockey Referee Bias*. CBC Radio. Superior Morning, Thunder Bay, ON.  
+Porter, Jody. 2016. *[Hockey Referee Bias](http://www.cbc.ca/news/canada/thunder-bay/ethnic-bias-nhl-refs-1.3497782)*. CBC Radio. Superior Morning, Thunder Bay, ON.  
 
 Richards, Jim. 2016. *Hockey Referee Bias*. Newstalk 1010. The Jim Richards Show, Toronto, ON.  
 
