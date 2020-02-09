@@ -18,9 +18,9 @@ Ulrick, Shawn, Kevin Mongeon, and Michael Giannetto. 2018. “[A Continuous Inco
 
 Mongeon, Kevin, Shawn Ulrick, and Michael P. Giannetto. 2017. “[Explaining University Course Grade Gaps](https://doi.org/10.1007/s00181-016-1078-4)”. *Empirical Economics* 52 (1): 411–446.
 
-Mongeon, Kevin. 2015. “A Market Test for Ethnic Discrimination in the National Hockey League”. *Journal of Sports Economics* 16 (5): 460–481.  
+Mongeon, Kevin. 2015. “[A Market Test for Ethnic Discrimination in the National Hockey League](http://dx.doi.org/10.1177/1527002513502490)”. *Journal of Sports Economics* 16 (5): 460–481.  
 
-Mongeon, Kevin, and Neil Longley. 2015. “Testing for Ethnicity Discrimination among NHL Referees: A Duration Model Approach”. *Eastern Economic Journal* 41 (1): 86–101.
+Mongeon, Kevin, and Neil Longley. 2015. “[Testing for Ethnicity Discrimination among NHL Referees: A Duration Model Approach](https://doi.org/10.1057/eej.2013.41)”. *Eastern Economic Journal* 41 (1): 86–101.
 
 Kaplan, Edward, Kevin Mongeon, and John Ryan. 2014. “[A Markov Model for Hockey: Manpower Differential and Win Probability Added](http://dx.doi.org/10.3138/infor.52.2.39)”. *INFOR: Information Systems and Operational Research* 52 (2): 39–50.
 
