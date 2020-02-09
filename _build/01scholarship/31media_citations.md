@@ -7,7 +7,7 @@ prev_page:
   title: 'Media Interviews'
 next_page:
   url: /01scholarship/40supervision.html
-  title: 'Supervision'
+  title: 'Student Supervision'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
 Media Citations
