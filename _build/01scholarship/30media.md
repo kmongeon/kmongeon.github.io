@@ -31,7 +31,7 @@ Tait, Ed. 2014. *[The Art of Hockey Analytics](https://www.winnipegfreepress.com
 
 Barmak, Sarah. 2013. *[There's an Amazing New Way to Value Hockey Players, but the NHL isn't Buying](http://www.canadianbusiness.com/companies-and-industries/money-puck-2/)*. Canadian Business.
 
-Brodsky, Matthew. 2013. *[A Stat to Face](https://www.allanalytics.com/author.asp?section_id=1859&doc_id=260667&tag_id=)*. All Analytics.
+Brodsky, Matthew. 2013. *A Stat to Face*. All Analytics.
 
 Curtis, Charles. 2013. *[Why Major Sports Have Embraced Big Data (And How They Use It)](http://www.business2community.com/big-data/why-major-sports-have-embraced-big-data-and-how-they-use-it-0504529#SVsmqvfhOrisiGeH.97)*. Business Innovation from SAP.
 
