@@ -1,4 +1,16 @@
-Media interviews
+---
+redirect_from:
+  - "/01scholarship/30media-interviews"
+title: 'Media Interviews'
+prev_page:
+  url: /01scholarship/20presentations.html
+  title: 'Presentations'
+next_page:
+  url: /01scholarship/31media_citations.html
+  title: 'Media Citations'
+comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
+---
+Media Interviews
 ================
 
 ## Broadcast
@@ -9,7 +21,7 @@ Richards, Jim. 2016. *Hockey Referee Bias*. Newstalk 1010. The Jim Richards Show
 
 Noël, Christian. 2014. *Hockey Analytics*. Radio-Canada. CBC, Montreal, QC.  
 
-## Print and online
+## Print and Online
 
 Caldwell, Tony. 2016. *[French Canadian NHL Referees Give more Penalties to English Players, New Study Says](http://nationalpost.com/news/canada/french-canadian-nhl-referees-give-more-penalties-to-english-players-new-study-says)*. National Post.
 

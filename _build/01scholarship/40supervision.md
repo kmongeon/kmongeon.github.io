@@ -1,8 +1,8 @@
 ---
 title: 'Supervision'
 prev_page:
-  url: /01scholarship/30media.html
-  title: 'Media'
+  url: /01scholarship/31media_citations.html
+  title: 'Media Citations'
 next_page:
   url: https://kmongeon.github.com/
   title: 'Bayesian Updating'

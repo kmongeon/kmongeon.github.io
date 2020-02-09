@@ -4,8 +4,8 @@ prev_page:
   url: /01scholarship/10publications.html
   title: 'Publications'
 next_page:
-  url: /01scholarship/30media.html
-  title: 'Media'
+  url: /01scholarship/30media_interviews.html
+  title: 'Media Interviews'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
 Presentations

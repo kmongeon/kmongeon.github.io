@@ -14,8 +14,11 @@
 - title: Presentations
   url: /01scholarship/20presentations
   not_numbered: true
-- title: Media
-  url: /01scholarship/30media
+- title: Media Interviews
+  url: /01scholarship/30media_interviews
+  not_numbered: true
+- title: Media Citations
+  url: /01scholarship/31media_citations
   not_numbered: true
 - title: Supervision
   url: /01scholarship/40supervision
