@@ -8,7 +8,7 @@ next_page:
   title: 'Bayesian Updating'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-# Supervision
+# Student Supervision
 
 ## Committee Chair
 

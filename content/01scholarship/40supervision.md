@@ -1,4 +1,4 @@
-# Supervision
+# Student Supervision
 
 ## Committee Chair
 
