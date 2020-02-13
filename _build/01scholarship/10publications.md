@@ -16,15 +16,6 @@ Peer-Refereed Journals
 
 Ulrick, Shawn, Kevin Mongeon, and Michael Giannetto. 2018. “[A Continuous Income-Based Grade Gap Decomposition on University Course Grades](https://doi.org/10.1080/00036846.2017.1420893)”. *Applied Economics* 50 (31): 3388–3404.
 
-<div id="xp">
-<popover id="pop:xp" title="eXtreme Programming (XP)">eXtreme Programming (XP)
-<span slot="content">
-_Extreme programming (XP)_ is a software development methodology which is intended to improve software quality and responsiveness to changing customer requirements. As a type of agile software development, it advocates frequent "releases" in short development cycles, which is intended to improve productivity and introduce checkpoints at which new customer requirements can be adopted.  [wikipedia, 2017.05.01]
-</span>
-</popover>
-</div>
-
-
 Mongeon, Kevin, Shawn Ulrick, and Michael P. Giannetto. 2017. “[Explaining University Course Grade Gaps](https://doi.org/10.1007/s00181-016-1078-4)”. *Empirical Economics* 52 (1): 411–446.
 
 Mongeon, Kevin. 2015. “[A Market Test for Ethnic Discrimination in the National Hockey League](http://dx.doi.org/10.1177/1527002513502490)”. *Journal of Sports Economics* 16 (5): 460–481.  
