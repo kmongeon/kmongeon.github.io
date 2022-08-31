@@ -1,7 +1,7 @@
 # About Me
 **Kevin Mongeon**  
 Economist | Data Scientist  
-webpages: [Github](https://github.com/kmongeon) | [Portfolio]( https://kmongeon.github.io) | 
+webpages: [Github](https://github.com/kmongeon/profile) | [Portfolio]( https://kmongeon.github.io) | 
 [University of Ottawa](https://www2.uottawa.ca/faculty-health-sciences/human-kinetics/our-professors/kevin-mongeon)  
 email: kevin.mongeon@uottawa.ca
 
