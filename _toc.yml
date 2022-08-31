@@ -1,0 +1,12 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: 00intro
+chapters:
+- file: 10publications
+- file: 20presentations
+- file: 30media_interviews
+- file: 31media_citations
+
+
